@@ -1,0 +1,63 @@
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\media player\media player\bin\Debug\Spotimy.exe.config
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\media player\media player\bin\Debug\Spotimy.exe
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\media player\media player\bin\Debug\Spotimy.pdb
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\media player\media player\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\media player\media player\bin\Debug\Interop.WMPLib.dll
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\media player\media player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\media player\media player\obj\Debug\spotimy.csprojAssemblyReference.cache
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\media player\media player\obj\Debug\Interop.WMPLib.dll
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\media player\media player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\media player\media player\obj\Debug\spotimy.csproj.ResolveComReference.cache
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\media player\media player\obj\Debug\media_player.Form1.resources
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\media player\media player\obj\Debug\spotimy.Properties.Resources.resources
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\media player\media player\obj\Debug\spotimy.csproj.GenerateResource.cache
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\media player\media player\obj\Debug\spotimy.csproj.CopyComplete
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\media player\media player\obj\Debug\Spotimy.exe
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\media player\media player\obj\Debug\Spotimy.pdb
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\spotimy\Spotimy\bin\Debug\Spotimy.exe.config
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\spotimy\Spotimy\bin\Debug\Spotimy.exe
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\spotimy\Spotimy\bin\Debug\Spotimy.pdb
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\spotimy\Spotimy\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\spotimy\Spotimy\bin\Debug\Interop.WMPLib.dll
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\spotimy\Spotimy\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\spotimy\Spotimy\obj\Debug\spotimy.csprojAssemblyReference.cache
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\spotimy\Spotimy\obj\Debug\Interop.WMPLib.dll
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\spotimy\Spotimy\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\spotimy\Spotimy\obj\Debug\spotimy.csproj.ResolveComReference.cache
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\spotimy\Spotimy\obj\Debug\media_player.Form1.resources
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\spotimy\Spotimy\obj\Debug\spotimy.Properties.Resources.resources
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\spotimy\Spotimy\obj\Debug\spotimy.csproj.GenerateResource.cache
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\spotimy\Spotimy\obj\Debug\spotimy.csproj.CopyComplete
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\spotimy\Spotimy\obj\Debug\Spotimy.exe
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\spotimy\Spotimy\obj\Debug\Spotimy.pdb
+C:\Users\suras\OneDrive\Masaüstü\masa üstündeki boş şeyler\Yeni klasör\2\spotimy\Spotimy\bin\Debug\Spotimy.exe.config
+C:\Users\suras\OneDrive\Masaüstü\masa üstündeki boş şeyler\Yeni klasör\2\spotimy\Spotimy\bin\Debug\Spotimy.exe
+C:\Users\suras\OneDrive\Masaüstü\masa üstündeki boş şeyler\Yeni klasör\2\spotimy\Spotimy\bin\Debug\Spotimy.pdb
+C:\Users\suras\OneDrive\Masaüstü\masa üstündeki boş şeyler\Yeni klasör\2\spotimy\Spotimy\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\suras\OneDrive\Masaüstü\masa üstündeki boş şeyler\Yeni klasör\2\spotimy\Spotimy\bin\Debug\Interop.WMPLib.dll
+C:\Users\suras\OneDrive\Masaüstü\masa üstündeki boş şeyler\Yeni klasör\2\spotimy\Spotimy\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\suras\OneDrive\Masaüstü\masa üstündeki boş şeyler\Yeni klasör\2\spotimy\Spotimy\obj\Debug\spotimy.csprojAssemblyReference.cache
+C:\Users\suras\OneDrive\Masaüstü\masa üstündeki boş şeyler\Yeni klasör\2\spotimy\Spotimy\obj\Debug\Interop.WMPLib.dll
+C:\Users\suras\OneDrive\Masaüstü\masa üstündeki boş şeyler\Yeni klasör\2\spotimy\Spotimy\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\suras\OneDrive\Masaüstü\masa üstündeki boş şeyler\Yeni klasör\2\spotimy\Spotimy\obj\Debug\spotimy.csproj.ResolveComReference.cache
+C:\Users\suras\OneDrive\Masaüstü\masa üstündeki boş şeyler\Yeni klasör\2\spotimy\Spotimy\obj\Debug\media_player.Form1.resources
+C:\Users\suras\OneDrive\Masaüstü\masa üstündeki boş şeyler\Yeni klasör\2\spotimy\Spotimy\obj\Debug\spotimy.Properties.Resources.resources
+C:\Users\suras\OneDrive\Masaüstü\masa üstündeki boş şeyler\Yeni klasör\2\spotimy\Spotimy\obj\Debug\spotimy.csproj.GenerateResource.cache
+C:\Users\suras\OneDrive\Masaüstü\masa üstündeki boş şeyler\Yeni klasör\2\spotimy\Spotimy\obj\Debug\spotimy.csproj.CopyComplete
+C:\Users\suras\OneDrive\Masaüstü\masa üstündeki boş şeyler\Yeni klasör\2\spotimy\Spotimy\obj\Debug\Spotimy.exe
+C:\Users\suras\OneDrive\Masaüstü\masa üstündeki boş şeyler\Yeni klasör\2\spotimy\Spotimy\obj\Debug\Spotimy.pdb
+C:\Users\onura\Desktop\media player son hali 2\spotimy\spotimy\Spotimy\bin\Debug\Spotimy.exe.config
+C:\Users\onura\Desktop\media player son hali 2\spotimy\spotimy\Spotimy\bin\Debug\Spotimy.exe
+C:\Users\onura\Desktop\media player son hali 2\spotimy\spotimy\Spotimy\bin\Debug\Spotimy.pdb
+C:\Users\onura\Desktop\media player son hali 2\spotimy\spotimy\Spotimy\bin\Debug\Interop.WMPLib.dll
+C:\Users\onura\Desktop\media player son hali 2\spotimy\spotimy\Spotimy\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\onura\Desktop\media player son hali 2\spotimy\spotimy\Spotimy\obj\Debug\spotimy.csprojAssemblyReference.cache
+C:\Users\onura\Desktop\media player son hali 2\spotimy\spotimy\Spotimy\obj\Debug\Interop.WMPLib.dll
+C:\Users\onura\Desktop\media player son hali 2\spotimy\spotimy\Spotimy\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\onura\Desktop\media player son hali 2\spotimy\spotimy\Spotimy\obj\Debug\spotimy.csproj.ResolveComReference.cache
+C:\Users\onura\Desktop\media player son hali 2\spotimy\spotimy\Spotimy\obj\Debug\media_player.Form1.resources
+C:\Users\onura\Desktop\media player son hali 2\spotimy\spotimy\Spotimy\obj\Debug\spotimy.Properties.Resources.resources
+C:\Users\onura\Desktop\media player son hali 2\spotimy\spotimy\Spotimy\obj\Debug\spotimy.csproj.GenerateResource.cache
+C:\Users\onura\Desktop\media player son hali 2\spotimy\spotimy\Spotimy\obj\Debug\spotimy.csproj.CopyComplete
+C:\Users\onura\Desktop\media player son hali 2\spotimy\spotimy\Spotimy\obj\Debug\Spotimy.exe
+C:\Users\onura\Desktop\media player son hali 2\spotimy\spotimy\Spotimy\obj\Debug\Spotimy.pdb

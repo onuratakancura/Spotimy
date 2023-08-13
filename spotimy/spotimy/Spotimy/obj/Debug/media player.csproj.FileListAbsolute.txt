@@ -1,0 +1,47 @@
+C:\Users\suras\OneDrive\Masaüstü\gp_ödev\2\media player\media player\bin\Debug\media player.exe.config
+C:\Users\suras\OneDrive\Masaüstü\gp_ödev\2\media player\media player\bin\Debug\media player.exe
+C:\Users\suras\OneDrive\Masaüstü\gp_ödev\2\media player\media player\bin\Debug\media player.pdb
+C:\Users\suras\OneDrive\Masaüstü\gp_ödev\2\media player\media player\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\suras\OneDrive\Masaüstü\gp_ödev\2\media player\media player\obj\Debug\media player.csprojAssemblyReference.cache
+C:\Users\suras\OneDrive\Masaüstü\gp_ödev\2\media player\media player\obj\Debug\media_player.Form1.resources
+C:\Users\suras\OneDrive\Masaüstü\gp_ödev\2\media player\media player\obj\Debug\media_player.Properties.Resources.resources
+C:\Users\suras\OneDrive\Masaüstü\gp_ödev\2\media player\media player\obj\Debug\media player.csproj.GenerateResource.cache
+C:\Users\suras\OneDrive\Masaüstü\gp_ödev\2\media player\media player\obj\Debug\media player.csproj.CopyComplete
+C:\Users\suras\OneDrive\Masaüstü\gp_ödev\2\media player\media player\obj\Debug\media player.exe
+C:\Users\suras\OneDrive\Masaüstü\gp_ödev\2\media player\media player\obj\Debug\media player.pdb
+C:\Users\suras\OneDrive\Masaüstü\gp_ödev\2\media player\media player\bin\Debug\Interop.WMPLib.dll
+C:\Users\suras\OneDrive\Masaüstü\gp_ödev\2\media player\media player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\suras\OneDrive\Masaüstü\gp_ödev\2\media player\media player\obj\Debug\Interop.WMPLib.dll
+C:\Users\suras\OneDrive\Masaüstü\gp_ödev\2\media player\media player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\suras\OneDrive\Masaüstü\gp_ödev\2\media player\media player\obj\Debug\media player.csproj.ResolveComReference.cache
+C:\Users\onura\Desktop\media player son hali 2\2\media player\media player\bin\Debug\media player.exe.config
+C:\Users\onura\Desktop\media player son hali 2\2\media player\media player\bin\Debug\media player.exe
+C:\Users\onura\Desktop\media player son hali 2\2\media player\media player\bin\Debug\media player.pdb
+C:\Users\onura\Desktop\media player son hali 2\2\media player\media player\bin\Debug\Interop.WMPLib.dll
+C:\Users\onura\Desktop\media player son hali 2\2\media player\media player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\onura\Desktop\media player son hali 2\2\media player\media player\obj\Debug\media player.csprojAssemblyReference.cache
+C:\Users\onura\Desktop\media player son hali 2\2\media player\media player\obj\Debug\Interop.WMPLib.dll
+C:\Users\onura\Desktop\media player son hali 2\2\media player\media player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\onura\Desktop\media player son hali 2\2\media player\media player\obj\Debug\media player.csproj.ResolveComReference.cache
+C:\Users\onura\Desktop\media player son hali 2\2\media player\media player\obj\Debug\media_player.Form1.resources
+C:\Users\onura\Desktop\media player son hali 2\2\media player\media player\obj\Debug\media_player.Properties.Resources.resources
+C:\Users\onura\Desktop\media player son hali 2\2\media player\media player\obj\Debug\media player.csproj.GenerateResource.cache
+C:\Users\onura\Desktop\media player son hali 2\2\media player\media player\obj\Debug\media player.csproj.CopyComplete
+C:\Users\onura\Desktop\media player son hali 2\2\media player\media player\obj\Debug\media player.exe
+C:\Users\onura\Desktop\media player son hali 2\2\media player\media player\obj\Debug\media player.pdb
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\media player\media player\bin\Debug\media player.exe.config
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\media player\media player\bin\Debug\media player.exe
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\media player\media player\bin\Debug\media player.pdb
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\media player\media player\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\media player\media player\bin\Debug\Interop.WMPLib.dll
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\media player\media player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\media player\media player\obj\Debug\media player.csprojAssemblyReference.cache
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\media player\media player\obj\Debug\Interop.WMPLib.dll
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\media player\media player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\media player\media player\obj\Debug\media player.csproj.ResolveComReference.cache
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\media player\media player\obj\Debug\media_player.Form1.resources
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\media player\media player\obj\Debug\media_player.Properties.Resources.resources
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\media player\media player\obj\Debug\media player.csproj.GenerateResource.cache
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\media player\media player\obj\Debug\media player.csproj.CopyComplete
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\media player\media player\obj\Debug\media player.exe
+C:\Users\suras\OneDrive\Masaüstü\Yeni klasör\2\media player\media player\obj\Debug\media player.pdb
